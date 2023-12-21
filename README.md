@@ -5,6 +5,15 @@ Welcome to my repository dedicated to enhancing the clarity and quality of EEG (
 ### Project Overview
 EEG signals are notoriously noisy, making accurate analysis a challenge. This project aims to address this by applying two sophisticated statistical techniques: Independent Component Analysis (ICA) and Principal Component Analysis (PCA). The goal is to isolate and enhance crucial neural signals obscured by noise, thereby improving the reliability and interpretability of EEG data.
 
+---
+
+### IPYNB(https://drive.google.com/file/d/1qSGsUYbnzOwhP_hK9DgJYhOuZ9j0P5xc/view?usp=drive_link)
+### Report_PDF(https://drive.google.com/file/d/1CAWXrt8R9G_ZP7B0QeUt3EtU0WX8HWu8/view?usp=drive_link)
+### Report_HTML(https://drive.google.com/file/d/1bJo7OdSADiNWa_eocnBIbRbdg_L7m5ge/view?usp=drive_link)
+
+---
+
+
 ### Some Results:
 #### Original Channels
 
