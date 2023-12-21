@@ -7,9 +7,9 @@ EEG signals are notoriously noisy, making accurate analysis a challenge. This pr
 
 ---
 
-### [IPYNB](https://drive.google.com/file/d/1qSGsUYbnzOwhP_hK9DgJYhOuZ9j0P5xc/view?usp=drive_link)
-### [Report_PDF](https://drive.google.com/file/d/1CAWXrt8R9G_ZP7B0QeUt3EtU0WX8HWu8/view?usp=drive_link)
-### [Report_HTML](https://drive.google.com/file/d/1bJo7OdSADiNWa_eocnBIbRbdg_L7m5ge/view?usp=drive_link)
+### [IPYNB](https://drive.google.com/file/d/1tSgXO2E2bu76-_Ar1eoEwz1XEpr7u6kV/view?usp=drive_link)
+### [Report_PDF](https://drive.google.com/file/d/1aqqRE4pQ7wjybjihayADijn25qgJqIny/view?usp=drive_link)
+### [Report_HTML](https://drive.google.com/file/d/1k0z2sxglC5A-pUh4YqOSSoXfpDJnEUJD/view?usp=drive_link)
 
 ---
 
